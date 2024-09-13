@@ -10,5 +10,6 @@
 ### [level 0 -- Hello Ethernaut](solves%2FHello_Ethernaut.md)
 ### [level 1 -- fallback](solves%2Ffallback.md)
 ### [level 2 -- fallout](solves%2Ffallout.md)
+### [level 3 -- coinflip](solves%2Fcoinflip.md)
 
 
