@@ -11,5 +11,6 @@
 ### [level 1 -- fallback](solves%2Ffallback.md)
 ### [level 2 -- fallout](solves%2Ffallout.md)
 ### [level 3 -- coinflip](solves%2Fcoinflip.md)
-
+### [level 4 -- Telephone](solves%2FTelephone.md)
+### [level 5 -- Token]((solves%2FToken.md)
 
